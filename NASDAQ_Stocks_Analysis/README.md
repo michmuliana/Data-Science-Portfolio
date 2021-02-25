@@ -1,5 +1,5 @@
 # Time-Series-Analysis-of-Tesla-Ford-and-General-Motors-Stocks-
-Time Series Analysis of three automobile company stocks using Python. The three stcks used are of:
+Time Series Stocks Analysis of three automobile company stocks using Python. The three stcks used are of:
 1. Tesla
 2. Ford
 3. General Motors
