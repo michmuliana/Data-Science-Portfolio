@@ -12,4 +12,3 @@ A repository of the projects I worked on or currently working on. It is updated 
   - [Twitter Sentiment Analysis:](https://github.com/michmuliana/Data-Science-Portfolio/blob/master/Twitter_Sentiment_Analysis.ipynb) 3-way polarity (positive, negative, neutral) and subjectivity classification system for tweets.
   - [Job Web Scraper:](https://github.com/michmuliana/Data-Science-Portfolio/tree/master/Job_Web_Scraper) Scrapes job postings from Indeed by indicating the roles and location and writing it to a csv file  
 
-Please contact me on [Linkedin](https://www.linkedin.com/in/michellemuliana/) if you have any internship opportunities.
