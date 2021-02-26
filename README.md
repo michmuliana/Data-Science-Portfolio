@@ -10,6 +10,6 @@ A repository of the projects I worked on or currently working on. It is updated 
 * Data Analysis and Visualisation
   - [NASDAQ Stocks Analysis:](https://github.com/michmuliana/Data-Science-Portfolio/tree/master/NASDAQ_Stocks_Analysis) Time Series Analysis of three automobile company stocks using Python. The three stocks used are Tesla, Ford and General Motors.
   - [Twitter Sentiment Analysis:](https://github.com/michmuliana/Data-Science-Portfolio/blob/master/Twitter_Sentiment_Analysis.ipynb) 3-way polarity (positive, negative, neutral) and subjectivity classification system for tweets.
-  - [Job Web Scraper:](https://github.com/michmuliana/Data-Science-Portfolio/tree/master/Job_Web_Scraper)Scrapes job postings from Indeed by indicating the roles and location and writing it to a csv file  
+  - [Job Web Scraper:](https://github.com/michmuliana/Data-Science-Portfolio/tree/master/Job_Web_Scraper) Scrapes job postings from Indeed by indicating the roles and location and writing it to a csv file  
 
 Please contact me on [Linkedin](https://www.linkedin.com/in/michellemuliana/) if you have any internship opportunities.
