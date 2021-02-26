@@ -4,9 +4,6 @@ Time Series Stocks Analysis of three automobile company stocks using Python. The
 2. Ford
 3. General Motors
 
-![image](https://www.google.com/search?q=ford+images+logo&tbm=isch&ved=2ahUKEwi24_nb1obvAhVHY80KHQCHDgYQ2-cCegQIABAA&oq=ford+images+logo&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BAgAEB46BggAEAUQHlCBa1jObmDkcGgAcAB4AIABkgGIAYYFkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=OnQ4YLbeEcfGtQaAjrow#imgrc=un_zIECMJnUupM)
-
-
 ## Data
 The datasets are available: [Tesla](https://finance.yahoo.com/quote/TSLA/history/), [Ford](https://www.nasdaq.com/symbol/f/historical) and [GM](https://www.nasdaq.com/symbol/gm/historical).
 
@@ -42,5 +39,4 @@ Using Python and predictive algorithms develop models to forecast the stock pric
 ![image](https://user-images.githubusercontent.com/35174083/55757479-fc9bcb80-5a21-11e9-85b2-f4029b9811ac.png)
 
 ### Conclusion
-1. Tesla stocks outperform Ford and General Motors.
-2. The scatter plots of Ford and GM are very closely related showing that they followsimilar trends.
+Tesla stocks are much more risky and outperform Ford and General Motors. The scatter plots of Ford and GM are very closely related showing that they follow similar trends.
