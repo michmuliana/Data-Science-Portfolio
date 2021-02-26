@@ -4,7 +4,7 @@ Time Series Stocks Analysis of three automobile company stocks using Python. The
 2. Ford
 3. General Motors
 
-![image](https://user-images.githubusercontent.com/35174083/55756796-64e9ad80-5a20-11e9-83c1-3f9c8e10b81a.png)
+![image](https://www.google.com/search?q=ford+images+logo&tbm=isch&ved=2ahUKEwi24_nb1obvAhVHY80KHQCHDgYQ2-cCegQIABAA&oq=ford+images+logo&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BAgAEB46BggAEAUQHlCBa1jObmDkcGgAcAB4AIABkgGIAYYFkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=OnQ4YLbeEcfGtQaAjrow#imgrc=un_zIECMJnUupM)
 
 
 ## Data
